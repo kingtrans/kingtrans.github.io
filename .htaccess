@@ -1,0 +1,16 @@
+ErrorDocument 403 /page2770192.html
+ErrorDocument 404 /page2770192.html
+
+DirectoryIndex page2734981.html
+
+RewriteEngine On
+
+RewriteRule ^turisticheskie_marshruty$ page2733986.html [NC]
+RewriteRule ^turisticheskie_marshruty/$ page2733986.html [NC]
+
+RewriteRule ^nash_transport$ page2769106.html [NC]
+RewriteRule ^nash_transport/$ page2769106.html [NC]
+
+RewriteRule ^kontakty$ page2735024.html [NC]
+RewriteRule ^kontakty/$ page2735024.html [NC]
+

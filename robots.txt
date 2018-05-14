@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /page2734892.html
+Disallow: /page2736946.html
+Disallow: /page2770192.html
+Disallow:
+Sitemap: http://kingtrans.ru/sitemap.xml
+Host: kingtrans.ru
